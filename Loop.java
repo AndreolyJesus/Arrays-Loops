@@ -30,6 +30,6 @@ public class Loop {
 }
 /*
 existe a variável contador que é iniciada como "nome",
-a cada loop executado (repetição) é somado 1 ao contador.
-Perceba que o while irá manter a repetição enquanto a variável contador for menor que 0.
+a cada loop executado (repetição) ficará infinito digitando nomes e idades.
+Perceba que o while irá finalizar a repetição enquanto a variável "nome" for igual 0.
  */
